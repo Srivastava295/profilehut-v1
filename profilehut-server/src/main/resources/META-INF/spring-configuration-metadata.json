@@ -1,0 +1,24 @@
+{
+  "properties": [
+    {
+      "name": "app.elasticsearch.uri",
+      "type": "java.lang.String",
+      "description": "Description for app.elasticsearch.uri."
+    },
+    {
+      "name": "app.elasticsearch.user.index",
+      "type": "java.lang.String",
+      "description": "Description for app.elasticsearch.user.index."
+    },
+    {
+      "name": "app.elasticsearch.username",
+      "type": "java.lang.String",
+      "description": "Description for app.elasticsearch.username."
+    },
+    {
+      "name": "app.elasticsearch.password",
+      "type": "java.lang.String",
+      "description": "Description for app.elasticsearch.password."
+    }
+  ]
+}
